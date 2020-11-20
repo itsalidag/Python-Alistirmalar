@@ -18,7 +18,6 @@ def numberquiz(guess):
         print("that was smaller than my number")
     elif a > 10:
         print("game over.")
-print(a)
 b = 0 
 while b < 10:
     guess = int(input("Guess the number: "))
