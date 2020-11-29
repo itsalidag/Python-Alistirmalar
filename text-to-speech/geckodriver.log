@@ -1,0 +1,14 @@
+1606670987234	geckodriver	INFO	Listening on 127.0.0.1:55980
+1606670990386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alida\\AppData\\Local\\Temp\\rust_mozprofile8rFAGn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606670995753	Marionette	INFO	Listening on port 55990
+1606670996260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606671039679	geckodriver	INFO	Listening on 127.0.0.1:56109
+1606671042785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alida\\AppData\\Local\\Temp\\rust_mozprofile6sZT0Z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606671047890	Marionette	INFO	Listening on port 56117
+1606671048211	Marionette	WARN	TLS certificate errors will be ignored for this session
